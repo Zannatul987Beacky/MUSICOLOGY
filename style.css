@@ -1,0 +1,100 @@
+*{
+margin: 0;
+padding: 0;
+border: 0;
+box-sizing: border-box;
+text-decoration: none;
+font-family: 'Oswald', sans-serif;
+}
+nav{
+background-color:#303030 ;
+}
+#search-btn{
+background-color:#e8631c ;
+border: #e8631c;
+color: #fff;
+}
+.hero-part{
+background-image: url(img/Musicology1.png); 
+background-size: cover;
+background-position:center;
+background-repeat:no-repeat ;
+color:#fff;
+padding: 240px 0px 30px;
+padding-bottom: 55px;
+}
+.btn{
+background-color: #e8631c;
+color: #fff;
+}
+.btn:hover{
+box-shadow:0px 0px 5px #eb9b70;
+color: #fff;
+}
+.hero-part h1{
+font-size: 100px;
+font-weight: 400;
+letter-spacing: 0px;
+}
+.hero-part p{
+font-size: 23px;
+font-weight:lighter;
+padding-bottom: 15px;
+}
+#about{
+background-image: url(img/Musicology-sec2.png);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+.writing-part h1{
+    font-size: 65px;
+    font-weight: bolder;
+}
+    /*pricing*/
+
+#pricing{
+background-image: url(img/Musicology-sec3-bag.png);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+.card-body{
+ background-color:#fa641e;
+}
+.btn-sec3{
+background-color: #303030;
+border-radius: 5px;
+}
+
+       /*Statistics*/
+
+#Statistics{
+background-color: #303030;
+}     
+
+       /*Herbert-Simon*/
+#Herbert-Simon{
+background-image: url(img/Musicology-sec7.png);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+       /*SUBSCRIBE*/
+#SUBSCRIBE{
+background-image: url(img/SEC8.png);
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+}
+.btn-sec8{
+ background-color: #303030;
+}
+#footer{
+ background-color: #303030;      
+}
+.Btn-foot{
+  background-color: #303030;     
+}
+
